@@ -10,9 +10,7 @@ Sam contributed throughout the project, including schema design,
 data preparation, SQL queries, testing, and documentation.
 */
 
-
-
--- USE THESE FOR THE CAPSTONE PROJECT'S DATABASE
+-- Database Setup
 
 CREATE DATABASE IF NOT EXISTS medical_practice_db;
 USE medical_practice_db;
